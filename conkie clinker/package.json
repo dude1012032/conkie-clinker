@@ -1,0 +1,14 @@
+{
+  "name": "conkie-clinker",
+  "version": "0.0.0",
+  "description": "conkie clinker",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
